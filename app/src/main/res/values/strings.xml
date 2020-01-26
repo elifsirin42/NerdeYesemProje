@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NerdeYesemProje</string>
+    <string name="butonKonum">Konum</string>
+    <string name="start">Start</string>
+</resources>
